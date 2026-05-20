@@ -63,7 +63,7 @@ Prerequisites for the workshop include a basic knowledge of using web resources 
 
 * ### Exercise 5: Comparing Objects in Mirador
 
-  * Fancy Example: [V\&A Curtain Viewer](https://jpadfield.github.io/simple-site/curtain-viewer.html)  
+  * Fancy Example: [V&A Curtain Viewer](https://jpadfield.github.io/simple-site/curtain-viewer.html)  
   * Examples: Go to [Mirador](https://projectmirador.org/) | [Esplanade from 1867](https://media.getty.edu/iiif/manifest/2/b35f6fad-9393-4215-84f1-14c8486aa0ca) | [Modern Photo from 2025](https://iiif.archive.org/iiif/54831541106-73a-6c-38ddf-o/manifest.json) (Johan Ludvig Runeberg: [Flickr](https://www.flickr.com/photos/travelinglibrarian/54831541106/in/album-72177720328598366/) | [Archive](https://archive.org/details/54831541106-73a-6c-38ddf-o))  
   * ***Hands-on Part 1:***  
     * Open the Mirador website: [projectmirador.org](http://projectmirador.org)  
