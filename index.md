@@ -103,7 +103,7 @@ Prerequisites for the workshop include a basic knowledge of using web resources 
 
   * Example: Slider Puzzle using a IIIF Image  
   * Building a Slider Puzzle using [TripleEyeFish](https://tripleyefish.com/puzzle/builder.html) | [Finna Source](https://www.finna.fi/Record/jykdok.2222144?sid=5352321459)   
-  * ***Hands-on: using an item from Finna, create your own Slide Puzzle***
+  * ***Hands-on: using an item from Finna, create your own Slider Puzzle***
 
 # Agenda: II
 
